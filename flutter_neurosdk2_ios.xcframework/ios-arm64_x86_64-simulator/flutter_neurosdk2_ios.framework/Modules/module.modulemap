@@ -1,4 +1,4 @@
-framework module neurosdk2 {
+framework module flutter_neurosdk2_ios {
   umbrella header "neurosdk.h"
 
   export *
