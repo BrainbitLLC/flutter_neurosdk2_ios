@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/NTBrainBit.h</key>
 		<data>
-		kr9PhYyvsfaV41F70Ypd58jMbTM=
+		5Qni1kS4tgQjP0k9dmXHN3hy6Hw=
 		</data>
 		<key>Headers/NTBrainBit2.h</key>
 		<data>
@@ -26,15 +26,23 @@
 		</data>
 		<key>Headers/NTHeadband.h</key>
 		<data>
-		jfR0pbqaVsnxaZ2Vz5NUEbixypY=
+		RaBzFWKal7g1MbhhRTwlcz4QBp8=
+		</data>
+		<key>Headers/NTHeadphones.h</key>
+		<data>
+		k0OpTPlXfJwpNfVz8XtW/QxUQJA=
 		</data>
 		<key>Headers/NTHeadphones2.h</key>
 		<data>
 		R5ofUCp9x8+vxmX/aaI3r2buSsY=
 		</data>
+		<key>Headers/NTNP2Sensor.h</key>
+		<data>
+		juaS1HEI9VIqrEezJPpfM9l9ZF4=
+		</data>
 		<key>Headers/NTNeuroEEG.h</key>
 		<data>
-		ycpGSibqp5MbyK9FDPQWc+0iz20=
+		DDwiKe5OZZuQsF012MWxTDnwsMQ=
 		</data>
 		<key>Headers/NTNeuroEEGSignalProcessing.h</key>
 		<data>
@@ -50,7 +58,7 @@
 		</data>
 		<key>Headers/NTTypes.h</key>
 		<data>
-		xWY2kFUXI6WgmqPge7kTutbTYjk=
+		e4c7J2ytgl32EHwV1LB1Vp8eCAw=
 		</data>
 		<key>Headers/NTUtils.h</key>
 		<data>
@@ -58,11 +66,11 @@
 		</data>
 		<key>Headers/neurosdk.h</key>
 		<data>
-		zMJQ7vnO7/DXXi/LljQYI0VtZkA=
+		e7q/JYnSxT4Rt2S6xhPuukGeBKo=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		wJGbO1J6XkjQ8IFgRfFp8ldYKjk=
+		qTuZHx5t0TKWM/NOlVej6da9BsY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -75,7 +83,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			O8eFxB/rEdCXtn6Z4+y7SGZFs3zmL7rRAc7pxSi4zLE=
+			DHZXCQBZWVT6gkxeSQ2QuWrcfQpl+5pkKsJpfcMPNm4=
 			</data>
 		</dict>
 		<key>Headers/NTBrainBit2.h</key>
@@ -110,7 +118,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wSYOQrirv+inO8cKKuvsDfeg7PvJFHhrLm5lXoYt764=
+			9GuUJ2a+vSh4KFDTW5qeAmim/JdP2KtTXRSia0SGgNU=
+			</data>
+		</dict>
+		<key>Headers/NTHeadphones.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			D4GKD9DWuhIZG5HtuRtNxcjlH/a8NMLz/okZuspX3JY=
 			</data>
 		</dict>
 		<key>Headers/NTHeadphones2.h</key>
@@ -120,11 +135,18 @@
 			WrFomC7G8wKdmV/p7aBNqmAoqv2jMjADdv5BvvvgHCM=
 			</data>
 		</dict>
+		<key>Headers/NTNP2Sensor.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			L59/8MhisllfFaDvJghi1Zgv3CoWP21bKGxOFZNvnZo=
+			</data>
+		</dict>
 		<key>Headers/NTNeuroEEG.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			P7hm5tO5dhgZyhwxfV91JynM0c7IudrijBH+zP0A/1s=
+			Lo1oDSfOxTodIHthxa+d6RWVFn0fRePquTo4P+bWyVI=
 			</data>
 		</dict>
 		<key>Headers/NTNeuroEEGSignalProcessing.h</key>
@@ -152,7 +174,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GVO6phDXrUNQ64d9coqaAfIE815s5nF7eE4MSzQa/Bw=
+			crKOZ/A9Cj77znzxGaE6SneZxBob6aiHj7Bg2HdJ3HY=
 			</data>
 		</dict>
 		<key>Headers/NTUtils.h</key>
@@ -166,7 +188,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aTvhxQb8mO0fHp3wBZUonYTbWMM++NEQuPeYzRfAVTs=
+			Uu7DDMxlScVk3BiqI0MleyWVR7shahOE41chn33HpUo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

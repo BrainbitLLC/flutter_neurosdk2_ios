@@ -17,6 +17,7 @@
 @property (NS_NONATOMIC_IOSONLY, readonly) NTSensorAmpMode AmpMode;
 @property (NS_NONATOMIC_IOSONLY) NTIrAmplitude  IrAmplitudeFPGSensor;
 @property (NS_NONATOMIC_IOSONLY) NTRedAmplitude RedAmplitudeFPGSensor;
+@property (NS_NONATOMIC_IOSONLY) NTSmartBandAmplifierParam* _Nonnull AmplifierParamSmartBand;
 
 -(void) PingNeuroSmart:(Byte)marker;
 
