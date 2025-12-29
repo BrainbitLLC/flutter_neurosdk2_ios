@@ -13,13 +13,9 @@
 #import "NTHeadband.h"
 
 
-#import "NTHeadphones.h"
-
 
 #import "NTHeadphones2.h"
 
-
-#import "NTNP2Sensor.h"
 
 
 #import "NTNeuroEEG.h"
